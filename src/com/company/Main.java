@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("----------Exercise 1----------");
 
-        int[] array = {1, 0, 0, 0, 1, 1, 1};
+        int[] array = {1, 0, 0, 0, 0, 1, 0, 0};
 
         Solution testOne = new Solution();
         int i = testOne.solution(array);
